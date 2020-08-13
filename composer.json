@@ -6,5 +6,8 @@
             "email": "294130893@qq.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload" : {
+        "psr-4": {"phpMagic\\": "/"}
+    }
 }
