@@ -4,7 +4,7 @@
 namespace phpMagic\src;
 
 
-class magic
+class Magic
 {
     public function echo()
     {
