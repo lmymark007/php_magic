@@ -8,6 +8,9 @@
     ],
     "require": {},
     "autoload" : {
-        "psr-4": {"phpMagic\\": "/"}
+        "psr-4": {"phpMagic\\": "/"},
+        "files": [
+            "src/helpers.php"
+        ]
     }
 }
